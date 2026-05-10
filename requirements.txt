@@ -2,11 +2,11 @@
 python-binance==1.0.19
 
 # ── Environment variables ─────────────────────────────────────────────────────
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 # ── Terminal UI / interactive prompts ────────────────────────────────────────
 rich==13.7.1
 questionary==2.0.1
 
 # ── HTTP (transitive; pinned for reproducibility) ────────────────────────────
-requests==2.31.0
+requests==2.33.0
